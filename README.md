@@ -8,7 +8,7 @@
 </ol>
 <h2>Installations</h2>
 <b>PyTesseract Url 👉🏻 <a href="https://github.com/UB-Mannheim/tesseract/wiki">Download</a></b>
-<ol>
- <li>pip install opencv-python</li>
- <li>pip install pytesseract</li>
-</ol>
+
+<h3><code>pip install opencv-python</code></h3>
+<h3><code>pip install pytesseract</code></h3>
+
